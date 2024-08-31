@@ -6,6 +6,7 @@ export const Wrapper = styled.div`
   position: sticky;
   top: 0;
   background-color: white;
+  z-index: 1;
 
   p {
     cursor: pointer;
