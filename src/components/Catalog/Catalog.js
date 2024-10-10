@@ -3,7 +3,7 @@ import { Wrapper, ImagesWrapper } from "./catalogStyles";
 
 export const Catalog = () => {
   return (
-    <Wrapper>
+    <Wrapper id="catalog">
       <h2>Дізнайтеся більше про нашу продукцію</h2>
       <p>
         Наше білизна виготовлена з еластичної тканини, делікатно огортає тіло,

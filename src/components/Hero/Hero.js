@@ -4,7 +4,7 @@ export const Hero = () => {
   const currentYear = new Date().getFullYear();
 
   return (
-    <Wrapper>
+    <Wrapper id="home">
       <div>
         <Title>Виробник білизни з 1995 року</Title>
         <Description>

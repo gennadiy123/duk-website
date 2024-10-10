@@ -7,7 +7,7 @@ import { Wrapper, ContentWrapper } from "./customizationStyles.js";
 
 export const Customization = () => {
   return (
-    <Wrapper>
+    <Wrapper id="customization">
       <ContentWrapper>
         <h2>Безмежні можливості для індивідуального пошиття</h2>
         <h3>

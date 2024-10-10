@@ -12,7 +12,7 @@ import planning from "../../images/planning.jpg";
 
 export const AboutUs = () => {
   return (
-    <Container>
+    <Container id="about-us">
       <ImageSection>
         <ImageWrapper>
           <div>

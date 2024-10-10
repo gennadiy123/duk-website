@@ -12,7 +12,7 @@ import {
 export const Footer = () => {
   const [value, setValue] = useState("");
   return (
-    <Wrapper>
+    <Wrapper id="contacts">
       <div>
         <EnterEmail>Введіть свою пошту і ми з вами зв'яжемось</EnterEmail>
         <input
